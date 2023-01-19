@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yvCCavZwjmxbAbKBHqE2VB/w8AVuUaoclI2ynpFD8h3GFemymanzpCSfJ72WbtjXal18NL4qc7THG01dU9G6Ew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\radom\\source\\repos\\wzorce projektowe - projekt visitor\\visitor\\visitor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\radom\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

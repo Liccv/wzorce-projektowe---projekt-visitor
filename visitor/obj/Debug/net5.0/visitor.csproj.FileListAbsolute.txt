@@ -1,0 +1,16 @@
+C:\Users\radom\source\repos\wzorce projektowe - projekt visitor\visitor\bin\Debug\net5.0\visitor.exe
+C:\Users\radom\source\repos\wzorce projektowe - projekt visitor\visitor\bin\Debug\net5.0\visitor.deps.json
+C:\Users\radom\source\repos\wzorce projektowe - projekt visitor\visitor\bin\Debug\net5.0\visitor.runtimeconfig.json
+C:\Users\radom\source\repos\wzorce projektowe - projekt visitor\visitor\bin\Debug\net5.0\visitor.runtimeconfig.dev.json
+C:\Users\radom\source\repos\wzorce projektowe - projekt visitor\visitor\bin\Debug\net5.0\visitor.dll
+C:\Users\radom\source\repos\wzorce projektowe - projekt visitor\visitor\bin\Debug\net5.0\visitor.pdb
+C:\Users\radom\source\repos\wzorce projektowe - projekt visitor\visitor\obj\Debug\net5.0\visitor.csproj.AssemblyReference.cache
+C:\Users\radom\source\repos\wzorce projektowe - projekt visitor\visitor\obj\Debug\net5.0\visitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radom\source\repos\wzorce projektowe - projekt visitor\visitor\obj\Debug\net5.0\visitor.AssemblyInfoInputs.cache
+C:\Users\radom\source\repos\wzorce projektowe - projekt visitor\visitor\obj\Debug\net5.0\visitor.AssemblyInfo.cs
+C:\Users\radom\source\repos\wzorce projektowe - projekt visitor\visitor\obj\Debug\net5.0\visitor.csproj.CoreCompileInputs.cache
+C:\Users\radom\source\repos\wzorce projektowe - projekt visitor\visitor\obj\Debug\net5.0\visitor.dll
+C:\Users\radom\source\repos\wzorce projektowe - projekt visitor\visitor\obj\Debug\net5.0\refint\visitor.dll
+C:\Users\radom\source\repos\wzorce projektowe - projekt visitor\visitor\obj\Debug\net5.0\visitor.pdb
+C:\Users\radom\source\repos\wzorce projektowe - projekt visitor\visitor\obj\Debug\net5.0\visitor.genruntimeconfig.cache
+C:\Users\radom\source\repos\wzorce projektowe - projekt visitor\visitor\obj\Debug\net5.0\ref\visitor.dll
